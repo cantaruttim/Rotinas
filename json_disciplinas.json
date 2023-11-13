@@ -1,25 +1,21 @@
 ['Disciplinas':
     
     {
-        'COD_DISCIPLINA':'CDMAT2023',
-        'DISCIPLINA':'CÁLCULO I',
-        'SEMESTRE':1,
-        'C/H':120
+        "COD_DISCIPLINA":"CDMAT2023",
+        "DISCIPLINA":"CÁLCULO I",
+        "SEMESTRE":1,
+        "C/H":120
     },
-
     {
-        'COD_DISCIPLINA':'CDPROB2023',
-        'DISCIPLINA':'PROBABILIDADE I',
-        'SEMESTRE':3,
-        'C/H':80
+        "COD_DISCIPLINA":"CDPROB2023",
+        "DISCIPLINA":"PROBABILIDADE I",
+        "SEMESTRE":3,
+        "C/H":80
     },
-    
     {
-        'COD_DISCIPLINA':'CDENG2023',
-        'DISCIPLINA':'ENGENHARIA DE DADOS',
-        'SEMESTRE':3,
-        'C/H':120
+        "COD_DISCIPLINA":"CDENG2023",
+        "DISCIPLINA":"ENGENHARIA DE DADOS",
+        "SEMESTRE":3,
+        "C/H":120
     }
-    
-
 ]

@@ -1,0 +1,21 @@
+
+COD_Disciplina;Disciplina;Semestre;C/H
+CDMAT2023;Matemática Básica;1;80
+CDMAT22023;Álgebra Linear I;2;80
+CDCALC2023;Cálculo I;2;160
+CDPROB2023;Probabilidade;3;80
+CDHISTMAT2323;História da Matemática;1;80
+CDBIOMODEL2023;Modelos Matemáticos em Biologia;3;80
+CDPROG2023;Python para Matemática; 1;160
+CDPROG22023;R para Matemática; 1;160
+CDEST2023;Estatística I para Data Science;1;80
+CDEST22023;Estatística II para Data Science;2;160
+CDPROG32023;SQL para Data Science;1;160
+CDARQ2023;Arquitetura de Dados;2;80
+CDENG2023;Engenharia de Dados;3;80
+CDML2023;Aprendizado de Máquina - Supervisionado;2;80
+CDML22023;Aprendizado de Máquina - Não Supervisionado;3;80
+CDMODEL2023;Modelagem de Dados;4;80
+CDBUSS2023;Modelagem de Negócios;5;160
+CDPROJ2023;Gestão de Projetos I;5;120
+CDPROJ2023;Gestão de Projetos II;6;120
